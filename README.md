@@ -63,4 +63,4 @@ The final dashboard includes:
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard](/assets/dataScreenshot.png) 
+![Dashboard](/assets/dashboardScreenshot.png) 
