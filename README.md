@@ -26,6 +26,6 @@ In order to analyze Walmart’s overall weekly sales performance from 2010 to 20
 ### Insights 
 The line chart reveals that Walmart’s weekly sales between 2010 and 2012 were relatively stable overall, fluctuating mostly between $150M and $250M, with noticeable spikes occurring around the end of each year, which can be attributed to major holidays such as Thanksgiving and Christmas. These peaks indicate the strong influence of seasonal shopping periods on revenue, while the recurring dips after holiday weeks highlight the slowdown that typically follows. Apart from these seasonal surges, the trend shows consistent performance across the three years without any significant long-term upward or downward movement.
 
-![firstLineChart](/assets/firstLineChart.png)
+![firstLineChart](/assets/firstLineChartu.png)
 
 *This line chart represents Walmart’s weekly sales trend over time across all stores from 2010 to 2012.*
