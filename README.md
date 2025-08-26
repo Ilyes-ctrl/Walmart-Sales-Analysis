@@ -29,3 +29,17 @@ The line chart reveals that Walmart’s weekly sales between 2010 and 2012 were 
 ![firstLineChart](/assets/firstLineChartu.png)
 
 *This line chart represents Walmart’s weekly sales trend over time across all stores from 2010 to 2012.*
+## 2. Which stores had the highest and lowest average weekly sales? How consistent was performance across all 45 stores?
+In order to assess which stores had the highest and lowest average weekly sales, I created a bar chart that compares the performance of all 45 Walmart stores. To build this
+visualization in Excel, I first calculated the average weekly sales per store by grouping the data by `Store` and applying the average function to the `Weekly_Sales` column.
+Once the averages were computed, I inserted a bar chart with the stores placed along the X-axis and their corresponding average weekly sales on the Y-axis. Finally, I
+applied formatting adjustments such as sorting the bars in descending order, adding labels, and customizing the chart design to ensure clarity and readability.
+### Insights
+The chart highlights significant disparities in sales performance across the 45 Walmart stores. Stores such as 20, 4, and 14 consistently achieved the highest average weekly
+sales, exceeding $2 million, while stores like 44 and 33 recorded the lowest averages, falling below $500,000. This suggests that a small group of top-performing stores
+contributed disproportionately to overall sales, while several stores underperformed relative to the company average. The steep decline from the highest to the lowest bars
+also indicates that store performance was not evenly distributed, pointing to potential differences in location, customer base, or operational factors.
+
+![firstBarChart](/assets/qst2.png)
+
+*This bar chart represents the average weekly sales for each Walmart store from 2010 to 2012, highlighting the highest and lowest performers across all 45 stores.*
