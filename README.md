@@ -95,3 +95,13 @@ weekly sales.
 ![secondLineChart](/assets/qst5.png)
 
 *Trend of Average Weekly Sales Across Temperature Ranges*
+
+# What I learned
+- **📈 Quantifying Business Drivers:** This analysis quantified the significant financial impact of holidays, revealing a 9.4% sales lift during these periods, which
+validates the strategic allocation of marketing budgets and inventory for peak seasons.
+
+- **🌡️ Environmental Influence on Consumer Behavior:** I identified a strong non-linear relationship between external factors like temperature and sales performance,
+learning that mild weather (55-65°F) maximizes foot traffic, while extreme heat has a more detrimental effect than cold.
+
+- **📊 Foundational Analytics Proficiency:** Cleaning and preparing a multi-year dataset in Excel built a strong foundation in data integrity management. Creating a
+dashboard with comparative charts honed my skills in translating raw data into clear, actionable business insights for decision-making.
