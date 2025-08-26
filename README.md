@@ -77,3 +77,21 @@ behavior.
 ![thirdBarChart](/assets/qst4.png)
 
 *Comparative Analysis of Average Weekly Sales: Holiday vs. Non-Holiday Periods*
+
+## 5. Is there any relationship between changes in temperature and Walmart’s weekly sales?
+In order to assess the relationship between changes in temperature and Walmart’s weekly sales, I created a line chart to visualize the correlation between these two
+continuous variables. The process began by grouping the raw temperature data into logical bins representing approximately 5-degree Fahrenheit ranges (e.g., 7.94-12.94°F,
+12.94-17.94°F) to smooth out volatility and reveal overarching trends. For each temperature range, the corresponding weekly sales figures were averaged. These paired data
+points—average sales per temperature bin—were then plotted on a line chart in Excel, with temperature bins on the category (X) axis and average weekly sales on the value (Y)
+axis. The line was formatted to clearly show the progression and trend of sales across the temperature spectrum.
+### Insights
+The analysis reveals a strong non-linear relationship between temperature and sales, characterized by a distinct inverted U-shape trend. Sales are subdued at both
+temperature extremes but rise sharply to a clear peak within the comfortable range of approximately 55°F to 65°F, indicating that mild, pleasant weather optimally encourages
+consumer foot traffic and spending. Conversely, the steady decline in sales as temperatures rise above this peak suggests that extreme heat has a more pronounced negative
+impact on shopping activity than colder conditions. This insight is critical for strategic planning, as it allows for anticipating demand fluctuations based on seasonal
+forecasts, optimizing inventory for weather-appropriate products, and developing targeted promotions to mitigate the dampening effect of very hot or very cold weather on
+weekly sales.
+
+![secondLineChart](/assets/qst5.png)
+
+*Trend of Average Weekly Sales Across Temperature Ranges*
