@@ -74,7 +74,7 @@ major revenue drivers. For business operations, this insight mandates strategic 
 designing targeted marketing campaigns in the lead-up to these peak periods to maximize this predictable surge in consumer demand and capitalize on the increased spending
 behavior.
 
-![thirdBarChart](/assets/qst4.png)
+![thirdBarChart](/assets/questionquatre.png)
 
 *Comparative Analysis of Average Weekly Sales: Holiday vs. Non-Holiday Periods*
 
