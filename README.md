@@ -8,7 +8,7 @@ relationship between sales and temperature 🌡️.
 - 📊 **Dashboard Preview (PDF):** [walmartSales2010to2012.pdf](walmartSales2010to2012.pdf)  
 - 📑 **Dataset:** [walmartSales.xlsx](walmartSales.xlsx)
 # Background
-### The questions I wanted to answer through this project were:
+### The Questions I Wanted to Answer Through This Project Were:
 1. How did Walmart’s weekly sales change between 2010 and 2012? Were there any noticeable trends or seasonal patterns?
 2. Which stores had the highest and lowest average weekly sales? How consistent was performance across all 45 stores?
 3. Which 10 stores contributed the most to overall sales during 2010–2012?
