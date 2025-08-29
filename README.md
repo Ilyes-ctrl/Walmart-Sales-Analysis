@@ -112,14 +112,14 @@ dashboard with comparative charts honed my skills in translating raw data into c
 1. **🛍️ Holiday Impact is Significant:** Holiday weeks generated substantially higher sales than regular weeks, with an average 9.4% sales lift. This underscores the
 critical importance of strategic planning around peak holiday seasons like Thanksgiving and Christmas.
 
-3. **🏬 Store Performance is Highly Variable:** A significant disparity exists across stores. Top-performing stores (e.g., 20, 4, 14) consistently exceeded $2 million in
+2. **🏬 Store Performance is Highly Variable:** A significant disparity exists across stores. Top-performing stores (e.g., 20, 4, 14) consistently exceeded $2 million in
 average weekly sales, while the lowest performers (e.g., 44, 33) fell below $500,000. This indicates that overall sales are heavily driven by a small group of high-performing locations.
 
-5. **📈 Sales Show Strong Seasonality but Overall Stability:** Weekly sales were relatively stable from 2010–2012, fluctuating between $150M and $250M. The data reveals
+3. **📈 Sales Show Strong Seasonality but Overall Stability:** Weekly sales were relatively stable from 2010–2012, fluctuating between $150M and $250M. The data reveals
 clear, repeating seasonal patterns, with major spikes occurring at the end of each year during the holiday season, followed by predictable dips in January.
 
-7. **🌡️ Temperature Has a Clear Non-Linear Relationship with Sales:** An inverted U-shape trend was identified, where sales peak in mild temperatures (55°F to 65°F) and
+4. **🌡️ Temperature Has a Clear Non-Linear Relationship with Sales:** An inverted U-shape trend was identified, where sales peak in mild temperatures (55°F to 65°F) and
 decline during both very cold and very hot weather. Extreme heat was shown to have a more pronounced negative impact on sales than extreme cold.
 
-9. **👑 Top Stores Drive Revenue:** A small cohort of stores (notably Stores 4, 14, and 20) were responsible for a disproportionately large share of total revenue, each
+5. **👑 Top Stores Drive Revenue:** A small cohort of stores (notably Stores 4, 14, and 20) were responsible for a disproportionately large share of total revenue, each
 surpassing $100 million in multiple years. Performance peaked in 2011 for most top stores before slightly declining in 2012.
